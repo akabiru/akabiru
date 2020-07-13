@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 OSS on @faker-ruby
+- 🔭 OSS @faker-ruby, DEV @maxihost
 - 🌱 Learning @rust-lang
 - 👯 Happy to collaborate on any Ruby or Rust projects
 - 💬 Ask me about anything Ruby! Always happy to engage on that.
