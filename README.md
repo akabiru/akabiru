@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 OSS @faker-ruby, DEV @maxihost, @getkwara
+- 🔭 OSS @faker-ruby, DEV @maxihost @getkwara
 - 🌱 Learning @rust-lang
 - ✒️ Author Of [Build A RESTful JSON API With Rails](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 - 👯 Happy to collaborate on any Ruby or Rust projects
