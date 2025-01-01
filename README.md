@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 🔭 OSS enthusiast
-🌱 Learning @rust-lang </br>
+🌱 #AlwaysBeLearning </br>
 💬 Ask me about anything Ruby! Always happy to engage on that. </br>
 📫 How to reach me: hey@akabiru.me | [@_akabiru](https://twitter.com/_akabiru)! </br>
